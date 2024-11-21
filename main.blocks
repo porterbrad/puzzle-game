@@ -1,1 +1,18 @@
-<xml xmlns="https://developers.google.com/blockly/xml"><block type="pxt-on-start" id="avN+0#ye7akQv+Ucb?(t" x="0" y="0"><statement name="HANDLER"><block type="set_current_tilemap" id="l(p1`onXi0?qJ/!$3G_k"><value name="tilemap"><shadow type="tiles_tilemap_editor" id="{~+@DK-QVC}jO9C!s0|s"><field name="tilemap">tilemap`level2`</field><data>{"commentRefs":[],"fieldData":{"tilemap":"level2"}}</data></shadow></value></block></statement></block></xml>
+<xml xmlns="https://developers.google.com/blockly/xml"><variables><variable id="#:aUpsvssaTg}rtL;z_U">mySprite</variable><variable type="KIND_SpriteKind" id="8XH}nbCrG;JnDSP$0%.p">Player</variable><variable type="KIND_SpriteKind" id="LCdl?Un.-vqu|@m#/,*~">Projectile</variable><variable type="KIND_SpriteKind" id="|}ntPYf^Vua2i7wtd/3m">Food</variable><variable type="KIND_SpriteKind" id="Z{*WaJ]XJupfIb*q11v)">Enemy</variable></variables><block type="pxt-on-start" id="avN+0#ye7akQv+Ucb?(t" x="0" y="0"><statement name="HANDLER"><block type="variables_set" id="6|lyKe/3cz-^I,UR{{Gm"><field name="VAR" id="#:aUpsvssaTg}rtL;z_U">mySprite</field><value name="VALUE"><shadow xmlns="http://www.w3.org/1999/xhtml" type="math_number"><field name="NUM">0</field></shadow><block type="spritescreate" id="m1g^W6exPP=:cN)V|x?9"><value name="img"><shadow type="screen_image_picker" id="{iehM+.ud61hr+JgD!O]"><field name="img">img`
+. . . . . . . . . . . . . . . . 
+. . . . . . . . . . . . . . . . 
+. . . . . . . . . . . . . . . . 
+. . . . . . . . . . . . . . . . 
+. . . . . . . . . . . . . . . . 
+. . . . . . . . . . . . . . . . 
+. . . . . . . . . . . . . . . . 
+. . . . . . . . . . . . . . . . 
+. . . . . . . . . . . . . . . . 
+. . . . . . . . . . . . . . . . 
+. . . . . . . . . . . . . . . . 
+. . . . . . . . . . . . . . . . 
+. . . . . . . . . . . . . . . . 
+. . . . . . . . . . . . . . . . 
+. . . . . . . . . . . . . . . . 
+. . . . . . . . . . . . . . . . 
+`</field><data>{"commentRefs":[],"fieldData":{"img":"{iehM+.ud61hr+JgD!O]"}}</data></shadow></value><value name="kind"><shadow type="spritekind" id="C[5-HcGon@U(7?c+BH|s"><field name="MEMBER">Player</field></shadow></value></block></value><next><block type="set_current_tilemap" id="l(p1`onXi0?qJ/!$3G_k"><value name="tilemap"><shadow type="tiles_tilemap_editor" id="{~+@DK-QVC}jO9C!s0|s"><field name="tilemap">tilemap`level2`</field><data>{"commentRefs":[],"fieldData":{"tilemap":"level2"}}</data></shadow></value></block></next></block></statement></block></xml>
