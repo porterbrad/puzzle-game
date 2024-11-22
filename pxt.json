@@ -3,7 +3,8 @@
     "description": "",
     "dependencies": {
         "device": "*",
-        "animation": "*"
+        "animation": "*",
+        "sprite-scaling": "*"
     },
     "files": [
         "main.blocks",
